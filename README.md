@@ -31,19 +31,15 @@ Analysiert werden:
 
 
 
+
 ```bash
 /sql          # SQL-Skripte
 /data         # Beispieldaten / CSV-Dateien
 /docs         # Dokumentation / KPI-Erklärung
 /screenshots  # Dashboard / Bilder
+```
 
 
-(3 Backticks)
-
-Also so:
-
-```text
-/screenshots  # Dashboard / Bilder
 
 
 
