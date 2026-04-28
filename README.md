@@ -38,6 +38,14 @@ Analysiert werden:
 /screenshots  # Dashboard / Bilder
 
 
+(3 Backticks)
+
+Also so:
+
+```text
+/screenshots  # Dashboard / Bilder
+
+
 
 ## Projektüberblick
 ![Projektüberblick](screenshots/projekt_ueberblick.png)
