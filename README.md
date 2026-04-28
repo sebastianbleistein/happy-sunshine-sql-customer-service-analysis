@@ -7,22 +7,22 @@ Ziel ist es, Transparenz über Servicequalität, Ticketvolumen und operative Eng
 
 Analysiert werden:
 
-- Ticketvolumen
-- Backlog
-- Eskalationen
-- Erreichbarkeit
-- Bearbeitungszeiten
-- Kundenzufriedenheit (CSAT / NPS)
+- Ticketvolumen  
+- Backlog  
+- Eskalationen  
+- Erreichbarkeit  
+- Bearbeitungszeiten  
+- Kundenzufriedenheit (CSAT / NPS)  
 
 ---
 
 ## Verwendete Tools
 
-- PostgreSQL
-- SQL
-- Excel
-- Power Query
-- GitHub
+- PostgreSQL  
+- SQL  
+- Excel  
+- Power Query  
+- GitHub  
 
 ---
 
