@@ -33,36 +33,30 @@ Analysiert werden:
 /data         # Beispieldaten / CSV-Dateien
 /docs         # Dokumentation / KPI-Erklärung
 /screenshots  # Dashboard / Bilder
-Projektüberblick
 
-Daten fachlich strukturieren
 
-KPI Analyse – Erreichbarkeit
+## Projektüberblick
+![Projektüberblick](screenshots/projekt_ueberblick.png)
 
-Performance Optimierung
+## Daten fachlich strukturieren
+![Struktur](screenshots/daten_strukturierung.png)
 
-Business-Kontext
+## KPI Analyse – Erreichbarkeit
+![Heatmap](screenshots/heatmap_erreichbarkeit.png)
+
+## Performance Optimierung
+![Indexing](screenshots/sql_performance_indexing.png)
+
+## Business-Kontext
 
 Das Projekt basiert auf meiner Erfahrung als Customer Service & Operations Leader.
 
 Ich betrachte Kennzahlen aus Managementsicht und leite daraus Maßnahmen für:
 
-Teamführung
-Prozessoptimierung
-Servicequalität
-Ressourcenplanung
-Performance-Steigerung
+- Teamführung  
+- Prozessoptimierung  
+- Servicequalität  
+- Ressourcenplanung  
+- Performance-Steigerung  
 
 ab.
-
-Beispielanalysen
-Heatmap für Erreichbarkeit
-Eskalationsquote nach Anliegen
-Ticketvolumen nach Monat
-Backlog-Entwicklung
-Mitarbeiter-Performance
-SQL Performance Optimierung durch Indexing
-Nächste Schritte
-Power BI Dashboard ergänzen
-Python Analyse ergänzen
-Automatisierte Reports entwickeln
