@@ -28,11 +28,15 @@ Analysiert werden:
 
 ## Projektstruktur
 
+
+
+
 ```bash
 /sql          # SQL-Skripte
 /data         # Beispieldaten / CSV-Dateien
 /docs         # Dokumentation / KPI-Erklärung
 /screenshots  # Dashboard / Bilder
+
 
 
 ## Projektüberblick
@@ -53,10 +57,8 @@ Das Projekt basiert auf meiner Erfahrung als Customer Service & Operations Leade
 
 Ich betrachte Kennzahlen aus Managementsicht und leite daraus Maßnahmen für:
 
-- Teamführung  
-- Prozessoptimierung  
-- Servicequalität  
-- Ressourcenplanung  
-- Performance-Steigerung  
-
-ab.
+- Teamführung
+- Prozessoptimierung
+- Servicequalität
+- Ressourcenplanung
+- Performance-Steigerung
