@@ -1,6 +1,8 @@
 # Interesting Projects
 
 ## 1. Call Center Analytics Dashboard
+https://github.com/PacktPublishing/Customer-Service-Analytics
+
 Kurzbeschreibung:
 Analyse von Calls, Agentenleistung und Servicequalität.
 
@@ -13,6 +15,8 @@ leicht – mittel
 ---
 
 ## 2. Solar Energy Forecasting
+https://github.com/kashif/solar-power-forecasting
+
 Kurzbeschreibung:
 Vorhersage von Solarproduktion anhand Wetterdaten.
 
@@ -25,8 +29,10 @@ mittel
 ---
 
 ## 3. Ticket Escalation Prediction
+https://github.com/IBM/ticket-classification
+
 Kurzbeschreibung:
-Vorhersage, welche Tickets eskalieren.
+Machine Learning Modell zur Klassifikation und Priorisierung von Tickets.
 
 Warum interessant?
 Direkter Business Case aus meinem Alltag.
@@ -37,8 +43,10 @@ mittel – schwer
 ---
 
 ## 4. Salesforce Service Dashboard
+https://github.com/trailheadapps/apex-recipes
+
 Kurzbeschreibung:
-CRM / Case / SLA Dashboard.
+Best Practices rund um Salesforce und Service-Prozesse.
 
 Warum interessant?
 Ich kenne Salesforce aus der Praxis.
@@ -49,8 +57,10 @@ mittel
 ---
 
 ## 5. Workforce Management / Capacity Planning
+https://github.com/awslabs/aws-forecast-samples
+
 Kurzbeschreibung:
-Planung von Mitarbeitern anhand Ticket- und Callvolumen.
+Forecasting und Kapazitätsplanung mit Zeitreihen.
 
 Warum interessant?
 Perfekt für Teamlead / Operations.
